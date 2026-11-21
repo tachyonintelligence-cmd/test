@@ -1,2 +1,5 @@
-# test
-Digital visiting card — test [cb:41ae6dfb-82d4-4cc6-86a0-2109eecb7bd6]
+# test — Digital Visiting Card
+
+Live site: https://tachyonintelligence-cmd.github.io/test/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
